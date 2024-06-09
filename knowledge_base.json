@@ -1,0 +1,101 @@
+{
+    "questions": [
+      {
+        "question": "Hi!",
+        "answer": "Hello!"
+      },
+      {
+        "question": "hi",
+        "answer": "Hello how are you?"
+      },
+      {
+        "question": "Who are you?",
+        "answer": "I Am A ChatBot Created By NirjalCodes"
+      },
+      {
+        "question": "How are you?",
+        "answer": "I'm just a bot, so I don't have feelings, but thanks for asking!"
+      },
+      {
+        "question": "What is your purpose?",
+        "answer": "My purpose is to assist users by answering questions and providing information."
+      },
+      {
+        "question": "Can you help me?",
+        "answer": "Of course! Feel free to ask me anything."
+      },
+      {
+        "question": "What can you do?",
+        "answer": "I can answer questions, provide information, and even learn from you!"
+      },
+      {
+        "question": "Tell me a joke",
+        "answer": "Why don't scientists trust atoms? Because they make up everything!"
+      },
+      {
+        "question": "What is the meaning of life?",
+        "answer": "That's a philosophical question! Some say it's 42, but I'm not so sure."
+      },
+      {
+        "question": "What is the capital of France?",
+        "answer": "The capital of France is Paris."
+      },
+      {
+        "question": "What is the tallest mountain in the world?",
+        "answer": "Mount Everest is the tallest mountain in the world."
+      },
+      {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "answer": "William Shakespeare wrote 'Romeo and Juliet'."
+      },
+      {
+        "question": "How do plants make food?",
+        "answer": "Plants make food through a process called photosynthesis, where they use sunlight, water, and carbon dioxide to produce glucose."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second."
+      },
+      {
+        "question": "What is the formula for calculating area of a circle?",
+        "answer": "The formula for calculating the area of a circle is \u00cf\u20acr\u00c2\u00b2, where \u00cf\u20ac is a mathematical constant (pi) and r is the radius of the circle."
+      },
+      {
+        "question": "What are the three primary colors?",
+        "answer": "The three primary colors are red, blue, and green."
+      },
+      {
+        "question": "Who discovered penicillin?",
+        "answer": "Alexander Fleming is credited with the discovery of penicillin."
+      },
+      {
+        "question": "What is the boiling point of water?",
+        "answer": "The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit)."
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "answer": "The largest organ in the human body is the skin."
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Leonardo da Vinci painted the Mona Lisa."
+      },
+      {
+        "question": "What causes earthquakes?",
+        "answer": "Earthquakes are caused by the sudden release of energy in the Earth's crust, usually as a result of tectonic plate movements."
+      },
+      {
+        "question": "another joke",
+        "answer": "Your Life"
+      },
+      {
+        "question": "even more",
+        "answer": "Why should a orphan rob a bank? So he will be finally wanted."
+      },
+      {
+        "question": "Why did the chicken join a band?",
+        "answer": "Because it had the drumsticks."
+      }
+    ]
+  }
+  
